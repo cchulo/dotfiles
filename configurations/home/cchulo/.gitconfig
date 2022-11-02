@@ -1,0 +1,8 @@
+[user]
+	email = cchulo.dev@gmail.com
+	name = Carlos Chulo
+	signingkey = 86BEC2DD58156DC5
+[commit]
+	gpgsign = true
+[init]
+	defaultBranch = main
