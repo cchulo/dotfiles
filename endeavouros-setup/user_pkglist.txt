@@ -1,0 +1,50 @@
+# btrfs tools
+snapper
+snap-pac
+
+# gaming / media
+discord
+steam
+spotify-launcher
+lutris
+wine
+gamemode
+lib32-gamemode
+
+# KDE
+libappindicator-gtk3
+lib32-libindicator-gtk3
+noto-fonts-emoji
+
+# development
+zsh
+neovim
+htop
+gparted
+dotnet-sdk-6.0
+clang
+lldb
+gdb
+ninja
+vulkan-devel
+python-pip
+
+# emulation
+syncthing
+dolphin-emu
+retroarch
+retroarch-assets-xmb
+retroarch-assets-ozone
+libretro-snes9x
+libretro-mgba
+libretro-mupen64plus-next
+libretro-shaders-slang
+
+# virtualization
+qemu-full
+libvirt
+edk2-ovmf
+virt-manager
+dnsmasq
+ebtables
+virt-viewer

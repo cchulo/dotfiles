@@ -125,3 +125,4 @@ make-grub-config() {
   sudo grub-mkconfig -o /boot/grub/grub.cfg
 }
 
+source /usr/share/nvm/init-nvm.sh
