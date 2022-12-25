@@ -10,6 +10,7 @@ lutris
 wine
 gamemode
 lib32-gamemode
+gamescope
 
 # KDE
 libappindicator-gtk3
@@ -28,6 +29,7 @@ gdb
 ninja
 vulkan-devel
 python-pip
+cmake
 
 # emulation
 syncthing
@@ -46,5 +48,4 @@ libvirt
 edk2-ovmf
 virt-manager
 dnsmasq
-ebtables
 virt-viewer
